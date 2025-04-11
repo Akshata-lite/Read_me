@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Akshata 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Data Scientist | 💻 Python & SQL Enthusiast | 📊 Power BI Explorer | 🎤 Confident Speaker | 🎨 Creative Soul
+  🚀 Aspiring Data Analyst | 💻 Python & SQL Enthusiast | 📊 Power BI Explorer | 🎤 Confident Speaker | 🎨 Creative Soul
 </p>
 
 ---
 
 ### 🌟 About Me
 
-- 🔍 Passionate about uncovering insights through **data science**
-- 📊 Skilled in **Power BI**, **Excel**, **Python (Pandas, NumPy)**, **SQL**, and **R**
+- 🔍 Passionate about uncovering insights through **data analysis **
+- 📊 Skilled in **Power BI**, **Excel**, **Python (Pandas, NumPy)**, **SQL**
 - 🤝 Completed a virtual internships with **Accenture** 
 - 🎓 Certified in C, C++, HTML, CSS (from IIT Bombay & Disha Classes)
 - 🧠 Always eager to learn and grow — I love turning complex data into clear stories!
@@ -27,14 +27,16 @@
 
 ### 📈 Featured Projects
 
-- 🔍 **IBM HR Analytics - Employee Attrition** (Power BI)  
-  → Analyzed patterns leading to employee attrition  
-- 🛍️ **Customer Segmentation** (Python & ML)  
-  → Clustered customers based on behavior using K-Means  
-- 🏡 **Ames Housing Price Prediction**  
-  → Regression model to predict house prices using data cleaning, feature engineering  
-- 🎵 **Billboard Genre Analysis** (Power BI)  
-  → Analyzed 20 years of top hits by genre trend
+### 🌟 Featured Projects:
+- ☕ **Coffee Store Sales Analysis** - An excel dashboard showing key sales metrics, customer behavior, and store performance.
+- 🧭 **Adventure Works Sales Insights** - Sales analysis using Power BI for the AdventureWorks dataset; regional trends & customer segmentation.
+- 🏘️ **Airbnb Impact & Regulations** - Analysis of Airbnb listings, pricing patterns, and regulatory insights across cities.
+- 🛍️ **Fashion Store Performance** - Excel visuals exploring product sales, customer demographics, and seasonal trends.
+- 💼 **HR Analytics Dashboard**  
+  Power BI dashboard analyzing employee attrition, job satisfaction, and performance.
+
+- 🧑‍💻 **E-commerce Customer **  
+  Python project in Jupyter Notebook to analyze customers based on behavior and shipping mode and categories.
 
 ---
 
