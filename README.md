@@ -1,35 +1,51 @@
-# Read_me
-# AirBnB Listing & Reviews
-Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
+<h1 align="center">Hi there, I'm Akshata 👋</h1>
 
-## Project Link
+<p align="center">
+  🚀 Aspiring Data Scientist | 💻 Python & SQL Enthusiast | 📊 Power BI Explorer | 🎤 Confident Speaker | 🎨 Creative Soul
+</p>
 
-([https://www.kaggle.com/code/naynishb/airbnb-project-1](https://www.kaggle.com/code/akshatabalkrishna/airbnb-data-analysis/edit))
+---
 
-<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
+### 🌟 About Me
 
-## Overview :
-This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
+- 🔍 Passionate about uncovering insights through **data science**
+- 📊 Skilled in **Power BI**, **Excel**, **Python (Pandas, NumPy)**, **SQL**, and **R**
+- 🤝 Completed a virtual internships with **Accenture** 
+- 🎓 Certified in C, C++, HTML, CSS (from IIT Bombay & Disha Classes)
+- 🧠 Always eager to learn and grow — I love turning complex data into clear stories!
 
-## Dataset :
-The dataset includes the following files:
-- listings.csv
-Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
-- reviews.csv
-Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
-- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+---
 
-## Insights :
-1. The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
-2. After the startup is known to everyone and becomes a common utility, AirBnBs start increasing in numbers and prices also kept on decreasing.
-3. After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
-4. Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
+### 🛠️ Tech Stack
 
-## Recommendation :
-1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
-2. Such regulations might add to AirBnBs losses which might be difficult to recover later.
-3. If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
-4. It is recommended to watch out for any such regulations at other places and be prepared for it.
-5. AirBnB can replicate such regulations at other places.
-6. They can keep strict rules to onboard and release the hosts.
-7. They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
+- **Languages:** Python, R, SQL, C, C++, HTML, CSS
+- **Data Tools:** Pandas, NumPy, Matplotlib, Power BI, Tableau, Excel
+- **Databases:** MySQL, PostgreSQL
+- **Other Tools:** Git, GitHub, Jupyter Notebook, PyCharm, VS Code
+
+---
+
+### 📈 Featured Projects
+
+- 🔍 **IBM HR Analytics - Employee Attrition** (Power BI)  
+  → Analyzed patterns leading to employee attrition  
+- 🛍️ **Customer Segmentation** (Python & ML)  
+  → Clustered customers based on behavior using K-Means  
+- 🏡 **Ames Housing Price Prediction**  
+  → Regression model to predict house prices using data cleaning, feature engineering  
+- 🎵 **Billboard Genre Analysis** (Power BI)  
+  → Analyzed 20 years of top hits by genre trend
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/akshata-balkrishna-375746326/)
+- 📧 Email: akshat32003@gmail.com  
+- ✨ Portfolio: Coming soon...
+
+---
+
+<p align="center">
+  💖 “Creativity meets logic — that’s where I thrive!” 💫
+</p>
