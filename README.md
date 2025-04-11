@@ -33,7 +33,7 @@
 - 🏘️ **Airbnb Impact & Regulations** - Analysis of Airbnb listings, pricing patterns, and regulatory insights across cities.
 - 🛍️ **Fashion Store Performance** - Excel visuals exploring product sales, customer demographics, and seasonal trends.
 - 💼 **HR Analytics Dashboard**  -Power BI dashboard analyzing employee attrition, job satisfaction, and performance.
-- 🧑‍💻 **E-commerce Customer** - Python project in Jupyter Notebook to analyze customers based on behavior and shipping mode and categories.
+- 🧑‍💻 **E-commerce Customers** - Python project in Jupyter Notebook to analyze customers based on behavior and shipping mode and categories.
 
 ---
 
